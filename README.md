@@ -6,33 +6,43 @@
 |------|--------|------|
 | 2024年2月 | チップ無料配布 | Warpcast上で投げ銭文化が始まる |
 | 2024年2月末 | スナップショット実施 | チップ利用者の履歴を記録 |
-| 2024年3月 | $DEGENエアドロップ | 初の報酬トークン配布（価値0.001ドル以下） |
+| 2024年3月 | $DEGENエアドロップ | 初の報酬トークン配布（当初の価値は0.001ドル以下） |
+| 2024年4月1日 | $DEGEN急騰（約0.05ドル） | わずか1ヶ月で50倍突破。投稿やTip（投げ銭）だけで100万円超えの報酬を得るユーザーが続出。<br>※筆者の記憶では、この時点ではWarpcast登録費（約$5〜$15）だけで参加可能で、Tipも無料配布されていた時期でした。 |
 
 ---
 
-## Talent Protocol（タレントプロトコル）2025年10月の使い方
+## 💎 Talent Protocol（タレントプロトコル）2025年10月の使い方
 
-Talent Protocolは、Farcasterの中で使えるアプリです。  
-2025年10月現在は、いろいろなプロジェクトがこのアプリで管理される**スコア**を見て、  
-そのスコアに応じてエアドロップ（報酬トークン）を配る仕組みがあります。
+**Talent Protocol**は、Farcaster内で使えるアプリのひとつです。  
+2025年10月現在では、複数のプロジェクトがこのアプリで管理される**スコア**をもとに、  
+**エアドロップ（報酬トークン）**を配布する仕組みを採用しています。
+
+---
 
 ### 🎯 稼ぎ方のポイント
 
-1. **Talent Protocolに接続**  
-- [Talent Protocol サインイン](https://app.talentprotocol.com/signin) にウォレットを接続します。
+#### 1️⃣ Talent Protocolに接続
+- 👉 [Talent Protocol サインイン](https://app.talentprotocol.com)
+- 自分のウォレットを接続します。
 
-2. **スコアをためる**  
-- 各プロジェクトに関わったり、投稿や活動をすることでスコアがたまります。  
-- そのスコアが、プロジェクトごとのエアドロ対象になる場合があります。  
-- ※エアドロは、そのプロジェクトに関わった部分だけが対象です。
+#### 2️⃣ スコアをためる
+- 各プロジェクトに関わったり、投稿・活動を行うことでスコアが上昇。
+- スコアが高いほど、プロジェクトごとのエアドロ対象になる可能性があります。
+- ※エアドロは、関わった**プロジェクト単位**で判定されます。
 
-3. **Talent Token（補助的）**  
-- **VAULTに預けたり保持することで、スコアが少し上がる場合があります。**
+#### 3️⃣ Talent Token（補助的）
+- VAULTに預けたり保持することで、スコアがわずかに上昇する場合があります。
 
 ---
 
-### 🌐 関連リンク
+## 🌐 関連リンク
 
-- [Farcaster Talentページ](https://farcaster.xyz/talent)  
-- [X（Twitter）Talent Protocol公式](https://x.com/talentprotocol?s=11&t=9wIrlWjkuZJeFKQkZIiptw)  
-- [Talent Protocol サインイン](https://app.talentprotocol.com/signin)
+- [Farcaster Talentページ](https://warpcast.com/~/channel/talent)
+- [X（Twitter）Talent Protocol公式](https://twitter.com/talentprotocol)
+- [Talent Protocol サインイン](https://app.talentprotocol.com)
+
+---
+
+🧩 **補足:**  
+このドキュメントはFarcasterコミュニティの動向と、筆者の記録・体験をもとにまとめています。  
+情報は当時の記憶や観測に基づくものであり、最新情報は各公式リンクをご確認ください。
